@@ -28,7 +28,7 @@ private_db_subnet_cidrs = [
 
 enable_nat_gateway = true
 
-ami_id = "YOUR_PRODUCTION_AMI_ID"
+ami_id = "ami-0aba19e56f3eaec05"
 
 instance_type = "t3.small"
 
